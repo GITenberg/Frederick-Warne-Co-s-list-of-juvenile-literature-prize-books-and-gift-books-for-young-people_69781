@@ -1,11 +1,16 @@
 _repo: Frederick-Warne-Co-s-list-of-juvenile-literature-prize-books-and-gift-books-for-young-people_69781
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69781-h/images/cover.jpg
 creator:
   author:
     agent_name: Warne, Frederick
     gutenberg_agent_id: '55418'
     url: http://www.gutenberg.org/2009/agents/55418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69781#Frederick-Warne-Co-s-list-of-juvenile-literature-prize-books-and-gift-books-for-young-people
 gutenberg_issued: '2023-01-13'
 identifiers:
   gutenberg: '69781'
